@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Timothé Boulet and I am a french Machine Learning Engineer specialized in Deep Learning. In particular, I have a lot of interest for Reinforcement Learning. I also worked on other DL fields such as Supervised Learning, Time Series and NLP.
+My name is Timothé Boulet and I am a french Machine Learning Engineer specialized in Deep Learning. In particular, I have a lot of interest for Reinforcement Learning. I also worked on other DL fields such as Supervised Learning, Time Series, NLP, and AI Safety & Alignment, and on other AI fields such as Game Theory/Game Playing AI, Operational Research and Search Problems/Decision Making.
 
 I followed various courses at CentraleSupélec (Paris) while learning by myself about these domains. I aim to do research on a related field in the future.
 
@@ -11,7 +11,7 @@ My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
 
 - Maths Vision Apprentissage ([MVA](https://www.master-mva.com/)) master at Ecole Normale Supérieure Paris Saclay : one of the most renowned masters in europe for machine learning - 1 year
 
-- R&D intern at [InstaDeep](https://www.instadeep.com/) : Deep RL for optimization in maritime Network Design - 6 months
+- Research intern at [InstaDeep](https://www.instadeep.com/) : Deep RL for optimization in maritime Network Design - 6 months
 
 - R&D intern at [Ubisoft La Forge](https://www.ubisoft.com/fr-fr/studio/laforge): Deep Learning applied to Video Games - 6 months
 
@@ -21,6 +21,6 @@ My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/tboulet) or by mail.
 
-Mail : timothe.boulet0@gmail.com <br>
-CentraleSupélec mail : timothe.boulet@student-cs.fr
-
+Personal Mail : timothe.boulet0@gmail.com <br>
+CentraleSupélec mail : timothe.boulet@student-cs.fr <br>
+ENS Paris Saclay mail : timothe.boulet@ens-paris-saclay.fr <br>
