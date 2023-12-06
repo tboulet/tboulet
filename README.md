@@ -30,9 +30,14 @@ My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
 - [IntegOR](https://github.com/tboulet/IntegOR) : a python package based on scipy.optimize that aims to traduce an Operation Research problem that can be linearized to a binary integer linear problem, to solve it. PyPI package : ``integor``.
 - Stable Baselines 3 Full Pipeline. A repository built on top of SB3 with some additional features. Repository [here](https://github.com/tboulet/StableBaselines3FullPipeline).
 - [Backtracking](https://github.com/tboulet/backtracking_algorithm) : A python package for backtracking algorithm, as an interface and a solving function. PyPI package : ``backtracking``.
-- Student Project : [Task Scheduling with A* and IDA*](https://github.com/tboulet/task-scheduling).
 - Computer Vision Project : [Facial Expression Recognition](https://github.com/tboulet/Face-Expression-Recognition). Information [here](https://www.hubia.org/post/facial-expression-recognition-algorithm).
 
+## Group Projects 👯
+
+- [Machine Learning CentraleSupélec 2022 Competition](https://www.kaggle.com/competitions/centralesypelec-ml2022-course) : our team ranked 1st out of 76 teams. Our repository [here](https://github.com/tboulet/ML-Competition).
+- School Research Project : [PCA-guided K-means](https://github.com/tboulet/PCA-guided-K-means). A paper-reproduction benchmark on various K-means initialization method, in particular PCA-guided search.
+- School Project : [Improved Semantic Segmentation for Night Drive](https://github.com/tboulet/Improved-Semantic-Segmentation-for-Night-Drive) (mission for Valeo).
+- School Project : [Task Scheduling with A* and IDA*](https://github.com/tboulet/task-scheduling). Implementation of an informed search algorithm A* and IDA* for solving a scheduling problem.
 
 ## How to reach me 📫
 
