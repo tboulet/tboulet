@@ -15,16 +15,18 @@ My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
 
 - R&D intern at [Ubisoft La Forge](https://www.ubisoft.com/fr-fr/studio/laforge): Deep Learning applied to Video Games - 6 months
 
+## Educational Purposes Projects 🎓
+
+- [Creation and teaching of courses on AI and Reinforcement Learning](https://github.com/tboulet/Formation-Reinforcement-Learning).
+- Web App : A [playground for Reinforcement Learning](https://share.streamlit.io/tboulet/formation-reinforcement-learning/main/app.py) algorithms. It is a simple app that allows you to play with different environments, algorithms, and hyperparameters.
+- A [Gridworld Reinforcement Learning Environment and Framework](https://github.com/tboulet/gridworld_rl).
 
 ## Personal Projects 🔥
 
-- Research project with Google DeepMind : Leagues methods for Multi-agent Reinforcement Learning. Repo for a related project (IndependentRL benchmark) [here](https://github.com/tboulet/MARL-Benchmark-with-OpenSpiel).
-- [Creation and teaching of courses on AI and Reinforcement Learning](https://github.com/tboulet/Formation-Reinforcement-Learning).
+- [VM Placement problem](https://github.com/tboulet/Operational-Research) : The formulation sof the VM Placement problem and several variants of it, as well as algorithms for solving them.
 - [Deep RL Framework](https://github.com/tboulet/Deep-RL-Framework) : a framework made by myself for Deep Reinforcement Learning. It is based on the OpenAI Gym and pytorch.
-- Web App : A [playground for Reinforcement Learning](https://share.streamlit.io/tboulet/formation-reinforcement-learning/main/app.py) algorithms. It is a simple app that allows you to play with different environments, algorithms, and hyperparameters.
 - [AI agents for Search Problems](https://github.com/tboulet/AI-Agents-for-Search-Problems) : a python package for Search Problems and Search Algorithms (DFS, A*,...). PyPI package : ``SearchProblemsAI``.
 - [AI agents for Games](https://github.com/tboulet/AI-Agents-for-Games) : a python package for Perfect Information Extensive-from Games (Chess, Connect4,...) and some algorithm ((Expecti)MiniMax, MCTS, ...).
-- A [Gridworld Reinforcement Learning Environment and Framework](https://github.com/tboulet/gridworld_rl).
 - [LocalPerf](https://github.com/tboulet/Local-Python-Performance) : an easy-to-use package for measuring the performance of python in any machine, in terms of CPU, multiprocessing and GPU (pytorch with CUDA), and also verify that the GPU is used. PyPI package : ``localperf``.
 - Telegram bot : Sold-out Tickets Detector. Repository [here](https://github.com/tboulet/Sold-out-Tickets-Detector).
 - [IntegOR](https://github.com/tboulet/IntegOR) : a python package based on scipy.optimize that aims to traduce an Operation Research problem that can be linearized to a binary integer linear problem, to solve it. PyPI package : ``integor``.
@@ -34,6 +36,7 @@ My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
 
 ## Group Projects 👯
 
+- [Research project with Google DeepMind](https://github.com/tboulet/Algorithms-for-Normal-Form-Games) : Population-based methods for Multi-agent Reinforcement Learning, studied in the minimalistic framework of Normal Form Games.
 - [Machine Learning CentraleSupélec 2022 Competition](https://www.kaggle.com/competitions/centralesypelec-ml2022-course) : our team ranked 1st out of 76 teams. Our repository [here](https://github.com/tboulet/ML-Competition).
 - School Research Project : [PCA-guided K-means](https://github.com/tboulet/PCA-guided-K-means). A paper-reproduction benchmark on various K-means initialization method, in particular PCA-guided search.
 - School Project : [Improved Semantic Segmentation for Night Drive](https://github.com/tboulet/Improved-Semantic-Segmentation-for-Night-Drive) (mission for Valeo).
