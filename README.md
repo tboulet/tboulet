@@ -7,13 +7,15 @@ My name is Timothé Boulet and I am a french Machine Learning Engineer specializ
 I followed various courses at CentraleSupélec (Paris) while learning by myself about these domains. I aim to do research on a related field in the future.
 
 My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
-- Student at [CentraleSupélec](https://www.centralesupelec.fr/) : top 3 french Engineer School (Deep Learning lessons and many more) - 3 years
+- Research Intern at FLOWERS (INRIA's Reinforcement Learning team in Bordeaux (France)): Population Evolutionnary Reinforcement Learning Environnement - 6 months
 
 - Maths Vision Apprentissage ([MVA](https://www.master-mva.com/)) master at Ecole Normale Supérieure Paris Saclay : one of the most renowned masters in europe for machine learning - 1 year
 
-- Research intern at [InstaDeep](https://www.instadeep.com/) : Deep RL for optimization in maritime Network Design - 6 months
-
 - R&D intern at [Ubisoft La Forge](https://www.ubisoft.com/fr-fr/studio/laforge): Deep Learning applied to Video Games - 6 months
+
+- Research intern at [InstaDeep](https://www.instadeep.com/) : Deep RL for optimization in maritime Network Design - 6 months
+  
+- Student at [CentraleSupélec](https://www.centralesupelec.fr/) : top 3 french Engineer School (Deep Learning lessons and many more) - 3 years
 
 ## Educational Purposes Projects 🎓
 
