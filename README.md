@@ -22,6 +22,7 @@ Currently, I'm doing a research internship at FLOWERS on modeling ecosystems of 
 ## Educational Purposes Projects 🎓
 
 - [Creation and teaching of courses on AI and Reinforcement Learning](https://github.com/tboulet/Formation-Reinforcement-Learning).
+- Template : a [template](https://github.com/tboulet/research-project-template) for starting Research Projects with good code practice and usefull tips.
 - Web App : A [playground for Reinforcement Learning](https://share.streamlit.io/tboulet/formation-reinforcement-learning/main/app.py) algorithms. It is a simple app that allows you to play with different environments, algorithms, and hyperparameters.
 - A [Gridworld Reinforcement Learning Environment and Framework](https://github.com/tboulet/gridworld_rl).
 
@@ -42,6 +43,7 @@ Currently, I'm doing a research internship at FLOWERS on modeling ecosystems of 
 
 - [Research project with Google DeepMind](https://github.com/tboulet/Algorithms-for-Normal-Form-Games) : Population-based methods for Multi-agent Reinforcement Learning, studied in the minimalistic framework of Normal Form Games.
 - [Machine Learning CentraleSupélec 2022 Competition](https://www.kaggle.com/competitions/centralesypelec-ml2022-course) : our team ranked 1st out of 76 teams. Our repository [here](https://github.com/tboulet/ML-Competition).
+- [QRT 2024 Data Challenge](https://challengedata.ens.fr/challenges/143) : A competition about guessing Football matches winners. Our team of 2 ranked 2nd/24 of the Academic leaderboard, and 8th/387 of the Private leaderboard.
 - School Research Project : [PCA-guided K-means](https://github.com/tboulet/PCA-guided-K-means). A paper-reproduction benchmark on various K-means initialization method, in particular PCA-guided search.
 - School Project : [Improved Semantic Segmentation for Night Drive](https://github.com/tboulet/Improved-Semantic-Segmentation-for-Night-Drive) (mission for Valeo).
 - School Project : [Task Scheduling with A* and IDA*](https://github.com/tboulet/task-scheduling). Implementation of an informed search algorithm A* and IDA* for solving a scheduling problem.
