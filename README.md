@@ -5,6 +5,8 @@
 My name is Timothé Boulet and I am a french Machine Learning Engineer specialized in Deep Learning. In particular, I have a lot of interest for Reinforcement Learning. I also worked on other DL fields such as Supervised Learning, Time Series, NLP, and AI Safety & Alignment, and on other AI fields such as Game Theory/Game Playing AI, Operational Research and Search Problems/Decision Making.
 
 My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
+- PhD at [FLOWERS](https://flowers.inria.fr/): Using Large Language Model for generation of controllers in interaction agent-environment - current
+
 - Research Intern at [FLOWERS](https://flowers.inria.fr/) (INRIA's Reinforcement Learning team in Bordeaux (France)): Studying the dynamics of Ecosystems of Neural Agents - 6 months
 
 - Maths Vision Apprentissage ([MVA](https://www.master-mva.com/)) master at Ecole Normale Supérieure Paris Saclay : one of the most renowned masters in europe for machine learning - 1 year
@@ -17,7 +19,7 @@ My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
 
 ## My current professional project 🤖
 
-Currently, I'm doing a research internship at FLOWERS on modeling ecosystems of neural agents. The code is publicly available [here](https://github.com/tboulet/EcoJAX).
+I'm doing a PhD since december 2024 at FLOWERS on the topic of "Using Large Language Model for generation of controllers in interaction agent-environment".
 
 ## Educational Purposes Projects 🎓
 
@@ -27,12 +29,12 @@ Currently, I'm doing a research internship at FLOWERS on modeling ecosystems of 
 - A [Gridworld Reinforcement Learning Environment and Framework](https://github.com/tboulet/gridworld_rl).
 
 ## Personal Projects 🔥
-
+- [Time measure package](https://github.com/tboulet/PythonTimeMeasure) : a simple context manager to measure the time taken by a block of code, that only add one line of code per section to measure. PyPI package : ``tmeasure``
 - [VM Placement problem](https://github.com/tboulet/Operational-Research) : The formulation sof the VM Placement problem and several variants of it, as well as algorithms for solving them.
 - [Deep RL Framework](https://github.com/tboulet/Deep-RL-Framework) : a framework made by myself for Deep Reinforcement Learning. It is based on the OpenAI Gym and pytorch.
 - [AI agents for Search Problems](https://github.com/tboulet/AI-Agents-for-Search-Problems) : a python package for Search Problems and Search Algorithms (DFS, A*,...). PyPI package : ``SearchProblemsAI``.
 - [AI agents for Games](https://github.com/tboulet/AI-Agents-for-Games) : a python package for Perfect Information Extensive-from Games (Chess, Connect4,...) and some algorithm ((Expecti)MiniMax, MCTS, ...).
-- [LocalPerf](https://github.com/tboulet/Local-Python-Performance) : an easy-to-use package for measuring the performance of python in any machine, in terms of CPU, multiprocessing and GPU (pytorch with CUDA), and also verify that the GPU is used. PyPI package : ``localperf``.
+- [LocalPerf](https://github.com/tboulet/Local-Python-Performance) : an easy-to-use package for measuring the performance of python in any machine, in terms of CPU, multiprocessing and GPU (pytorch and JAX), and also verify that the GPU is used. PyPI package : ``localperf``.
 - Telegram bot : Sold-out Tickets Detector. Repository [here](https://github.com/tboulet/Sold-out-Tickets-Detector).
 - [IntegOR](https://github.com/tboulet/IntegOR) : a python package based on scipy.optimize that aims to traduce an Operation Research problem that can be linearized to a binary integer linear problem, to solve it. PyPI package : ``integor``.
 - Stable Baselines 3 Full Pipeline. A repository built on top of SB3 with some additional features. Repository [here](https://github.com/tboulet/StableBaselines3FullPipeline).
