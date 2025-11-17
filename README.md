@@ -2,9 +2,22 @@
 
 ## About me 🙂
 
-My name is Timothé Boulet and I am a french Machine Learning Engineer specialized in Deep Learning. In particular, I have a lot of interest for Reinforcement Learning. I also worked on other DL fields such as Supervised Learning, Time Series, NLP, and AI Safety & Alignment, and on other AI fields such as Game Theory/Game Playing AI, Operational Research and Search Problems/Decision Making.
+I am a french PhD student in AI specialized in LLM for Code Generation. My research is about building Software Engineering Agents (SWE-Agents), i.e. LLM-based systems interacting with a codebase through a terminal interface to solve a long-term coding task, such as solving a GitHub issue, an embodied environment or even lead a research project. I believe this framework can tackle a vast quantity of tasks and is extremely promising for the future of AI.
 
-My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
+I have also interest on other AI fields such as Supervised Learning, Reinforcement Learning,  Game Theory/Game Playing AI, Operational Research and Search Problems/Decision Making.
+
+## Publications 📝
+
+- Boulet, T., Hinaut, X., & Moulin-Frier, C. (2025). [Software Engineering Agents for Embodied Controller Generation: A Study in Minigrid Environments](https://arxiv.org/abs/2510.21902). NeurIPS 2025 Workshop on Efficient Reasoning. 
+
+- Taylor-Davies, M., Hamon, G., Boulet, T., & Moulin-Frier, C. [Emergent kin selection of altruistic feeding via non-episodic neuroevolution](https://arxiv.org/abs/2411.10536). International Conference on the Applications of Evolutionary Computation (Part of EvoStar 2025). 👑 EvoApps best paper award, EvoStar best student paper award.
+
+- (Medium Article) [Deep Reinforcement Learning for Network Design in Marine Transportation](https://medium.com/instadeep/deep-reinforcement-learning-for-network-design-in-marine-transportation-c3e31a1aba0)
+
+## My curriculum 🎓
+
+(Details on my [LinkedIn](https://www.linkedin.com/in/tboulet))
+
 - PhD at [FLOWERS](https://flowers.inria.fr/): Using Large Language Model for generation of controllers in interaction agent-environment - current
 
 - Research Intern at [FLOWERS](https://flowers.inria.fr/) (INRIA's Reinforcement Learning team in Bordeaux (France)): Studying the dynamics of Ecosystems of Neural Agents - 6 months
@@ -17,13 +30,10 @@ My curriculum (details on my [LinkedIn](https://www.linkedin.com/in/tboulet)):
   
 - Student at [CentraleSupélec](https://www.centralesupelec.fr/) : top 3 French Engineer School (Deep Learning lessons and many more) - 3 years
 
-## My current professional project 🤖
+## Teaching and Educational Purposes Projects 👨‍🏫
 
-I'm doing a PhD since december 2024 at FLOWERS on the topic of "Using Large Language Model for generation of controllers in interaction agent-environment".
-
-## Educational Purposes Projects 🎓
-
-- [Creation and teaching of courses on AI and Reinforcement Learning](https://github.com/tboulet/Formation-Reinforcement-Learning).
+- Courses and Practical Works on Reinforcement Learning at [Ecole Nationale Supérieure de Cognitique Bordeaux](https://www.bordeaux-inp.fr/en). Teaching materials [here](https://github.com/tboulet/teaching).
+- [Courses on Reinforcement Learning](https://github.com/tboulet/Formation-Reinforcement-Learning) as part of the CentraleSupélec AI student association.
 - Template : a [template](https://github.com/tboulet/research-project-template) for starting Research Projects with good code practice and usefull tips.
 - Web App : A [playground for Reinforcement Learning](https://share.streamlit.io/tboulet/formation-reinforcement-learning/main/app.py) algorithms. It is a simple app that allows you to play with different environments, algorithms, and hyperparameters.
 - A [Gridworld Reinforcement Learning Environment and Framework](https://github.com/tboulet/gridworld_rl).
@@ -55,6 +65,4 @@ I'm doing a PhD since december 2024 at FLOWERS on the topic of "Using Large Lang
 You can contact me on [LinkedIn](https://www.linkedin.com/in/tboulet) or by mail.
 
 Personal Mail : timothe.boulet0@gmail.com <br>
-CentraleSupélec mail : timothe.boulet@student-cs.fr <br>
-ENS Paris Saclay mail : timothe.boulet@ens-paris-saclay.fr <br>
 INRIA mail : timothe.boulet@inria.fr <br>
