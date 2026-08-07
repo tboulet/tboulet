@@ -4,7 +4,9 @@
 
 I am a french PhD student in AI specialized in LLM for Code Generation. My research is about building Software Engineering Agents (SWE-Agents), i.e. LLM-based systems interacting with a codebase through a terminal interface to solve a long-term coding task, such as solving a GitHub issue, an embodied environment or even lead a research project. I believe this framework can tackle a vast quantity of tasks and is extremely promising for the future of AI.
 
-I have also interest on other AI fields such as Supervised Learning, Reinforcement Learning,  Game Theory/Game Playing AI, Operational Research and Search Problems/Decision Making.
+I have a strong background in mathematics and formalization from my french engineering masters. I'm mostly a python developper and not an expert on other languages, but I compensate by heavy but carefully designed AI coding assistant usage. I have teaching experience in RL, RL on LLMs, and computer science project management.
+
+I have also a technical and conceptual interest on other AI fields such as Supervised Learning, Reinforcement Learning, Game Theory/Game Playing AI, Operational Research, Search Problems/Decision Making, Social Deduction Games benchmarks, as well as a philosophical and conceptual interest for AGI and AI Alignment & Safety. 
 
 ## Publications 📝
 
@@ -38,7 +40,13 @@ I have also interest on other AI fields such as Supervised Learning, Reinforceme
 - Web App : A [playground for Reinforcement Learning](https://share.streamlit.io/tboulet/formation-reinforcement-learning/main/app.py) algorithms. It is a simple app that allows you to play with different environments, algorithms, and hyperparameters.
 - A [Gridworld Reinforcement Learning Environment and Framework](https://github.com/tboulet/gridworld_rl).
 
+## Research projects 🧪
+- [Alan Code](https://github.com/tboulet/Alan-Code-agent) : An open-source coding agent. Usable in CLI, GUI, or as a python library to build upon.
+- [Reasoning Game Act framework](https://github.com/ramosleandre/regact) : A framework to benchmark agents (Alan Code) or AI assistants (Claude Code, Codex) on interactive game solving tasks (ARC AGI 3, Minigrid, ...), with harness features.
+- [SimpleLM](github.com/tboulet/SimpleLM-Inference) : My own LLM inference engine to support models, largely vibe-coded.
+
 ## Personal Projects 🔥
+- [fileproxy](https://github.com/tboulet/fileproxy) : a python package to establish file-based communication between a server and a client, as a workaround for cluster without compute node internet access. PyPI package : ``fileproxy``
 - [Time measure package](https://github.com/tboulet/PythonTimeMeasure) : a simple context manager to measure the time taken by a block of code, that only add one line of code per section to measure. PyPI package : ``tmeasure``
 - [VM Placement problem](https://github.com/tboulet/Operational-Research) : The formulation sof the VM Placement problem and several variants of it, as well as algorithms for solving them.
 - [Deep RL Framework](https://github.com/tboulet/Deep-RL-Framework) : a framework made by myself for Deep Reinforcement Learning. It is based on the OpenAI Gym and pytorch.
