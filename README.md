@@ -24,7 +24,7 @@ I have also a technical and conceptual interest on other AI fields such as Super
 
 - Research Intern at [FLOWERS](https://flowers.inria.fr/) (INRIA's Reinforcement Learning team in Bordeaux (France)): Studying the dynamics of Ecosystems of Neural Agents - 6 months
 
-- Maths Vision Apprentissage ([MVA](https://www.master-mva.com/)) master at Ecole Normale Supérieure Paris Saclay : one of the most renowned masters in europe for machine learning - 1 year
+- Maths Vision Apprentissage ([MVA](https://www.master-mva.com/)) master at Ecole Normale Supérieure Paris Saclay : one of the most renowned masters in Europe for machine learning - 1 year
 
 - R&D intern at [Ubisoft La Forge](https://www.ubisoft.com/fr-fr/studio/laforge) Montréal: Deep Learning applied to Video Games - 6 months
 
@@ -43,7 +43,7 @@ I have also a technical and conceptual interest on other AI fields such as Super
 ## Research projects 🧪
 - [Alan Code](https://github.com/tboulet/Alan-Code-agent) : An open-source coding agent. Usable in CLI, GUI, or as a python library to build upon.
 - [Reasoning Game Act framework](https://github.com/ramosleandre/regact) : A framework to benchmark agents (Alan Code) or AI assistants (Claude Code, Codex) on interactive game solving tasks (ARC AGI 3, Minigrid, ...), with harness features.
-- [SimpleLM](github.com/tboulet/SimpleLM-Inference) : My own LLM inference engine to support models, largely vibe-coded.
+- [SimpleLM](https://github.com/tboulet/SimpleLM-Inference) : My own LLM inference engine to support models, largely vibe-coded.
 
 ## Personal Projects 🔥
 - [fileproxy](https://github.com/tboulet/fileproxy) : a python package to establish file-based communication between a server and a client, as a workaround for cluster without compute node internet access. PyPI package : ``fileproxy``
