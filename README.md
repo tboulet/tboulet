@@ -4,9 +4,9 @@
 
 I am a french PhD student in AI specialized in LLM for Code Generation. My research is about building Software Engineering Agents (SWE-Agents), i.e. LLM-based systems interacting with a codebase through a terminal interface to solve a long-term coding task, such as solving a GitHub issue, an embodied environment or even lead a research project. I believe this framework can tackle a vast quantity of tasks and is extremely promising for the future of AI.
 
-I have a strong background in mathematics and formalization from my french engineering masters. I'm mostly a python developper and not an expert on other languages, but I compensate by heavy but carefully designed AI coding assistant usage. I have teaching experience in RL, RL on LLMs, and computer science project management.
+I have a strong background in mathematics and formalization from my french engineering masters. I have also a technical and conceptual interest on other AI fields such as Supervised Learning, Reinforcement Learning, Game Theory/Game Playing AI, Operational Research, Search Problems/Decision Making, Social Deduction Games benchmarks, as well as a philosophical and conceptual interest for AGI and AI Alignment & Safety.
 
-I have also a technical and conceptual interest on other AI fields such as Supervised Learning, Reinforcement Learning, Game Theory/Game Playing AI, Operational Research, Search Problems/Decision Making, Social Deduction Games benchmarks, as well as a philosophical and conceptual interest for AGI and AI Alignment & Safety. 
+Find my best projects on [my website!](https://timotheboulet.com)
 
 ## Publications 📝
 
@@ -14,7 +14,7 @@ I have also a technical and conceptual interest on other AI fields such as Super
 
 - Taylor-Davies, M., Hamon, G., Boulet, T., & Moulin-Frier, C. [Emergent kin selection of altruistic feeding via non-episodic neuroevolution](https://arxiv.org/abs/2411.10536). International Conference on the Applications of Evolutionary Computation (Part of EvoStar 2025). 👑 EvoApps best paper award, EvoStar best student paper award.
 
-- (Medium Article) [Deep Reinforcement Learning for Network Design in Marine Transportation](https://medium.com/instadeep/deep-reinforcement-learning-for-network-design-in-marine-transportation-c3e31a1aba0)
+
 
 ## My curriculum 🎓
 
@@ -28,7 +28,7 @@ I have also a technical and conceptual interest on other AI fields such as Super
 
 - R&D intern at [Ubisoft La Forge](https://www.ubisoft.com/fr-fr/studio/laforge) Montréal: Deep Learning applied to Video Games - 6 months
 
-- Research intern at [InstaDeep](https://www.instadeep.com/) Paris : Deep RL for optimization in maritime Network Design - 6 months
+- Research intern at [InstaDeep](https://www.instadeep.com/) Paris : Deep RL for optimization in maritime Network Design - 6 months -  [Medium article](https://medium.com/instadeep/deep-reinforcement-learning-for-network-design-in-marine-transportation-c3e31a1aba0)
   
 - Student at [CentraleSupélec](https://www.centralesupelec.fr/) : top 3 French Engineer School (Deep Learning lessons and many more) - 3 years
 
